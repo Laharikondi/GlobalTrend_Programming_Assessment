@@ -1,0 +1,19 @@
+<dependencies>
+    <!-- Spring Core and Context -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>5.3.10</version> <!-- Replace with your desired version -->
+    </dependency>
+    <!-- AspectJ dependencies -->
+    <dependency>
+        <groupId>org.aspectj</groupId>
+        <artifactId>aspectjrt</artifactId>
+        <version>1.9.7</version> <!-- Ensure the version matches your aspectjweaver -->
+    </dependency>
+    <dependency>
+        <groupId>org.aspectj</groupId>
+        <artifactId>aspectjweaver</artifactId>
+        <version>1.9.7</version> <!-- Ensure the version matches your aspectjrt -->
+    </dependency>
+</dependencies>
